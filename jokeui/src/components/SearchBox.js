@@ -11,7 +11,6 @@ const timeoutDelay = 500;
 
 export default class SearchBox extends Component {
 
-	// take the input from searchbox and send it to backend Go code
 	constructor(props) {
 		super(props);
 
