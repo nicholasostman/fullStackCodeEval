@@ -1,0 +1,17 @@
+.search-header {
+    background-color: #00487c;
+    height: 175px;
+    padding: 10px;
+    color: lightgray;
+}
+  
+.search-title {
+    font-size: 1.5em;
+}
+
+.bodyContainer {
+    width: 85%;
+    align-content: center;
+    text-align: center;
+}
+  

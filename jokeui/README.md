@@ -1,0 +1,1 @@
+Quick and simple web-app for a job application

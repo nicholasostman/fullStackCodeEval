@@ -1,0 +1,1 @@
+This is just a quick coding exercise as a sample for a job application.

@@ -1,0 +1,9 @@
+.ui.divided.list>.item {
+    color: black;
+    font-size: 16px;
+    padding: 10px;
+}
+
+.ui.list {
+    font-size: 16px;
+}
